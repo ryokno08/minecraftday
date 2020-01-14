@@ -1,0 +1,20 @@
+lastAccountName: fcsmc01
+timestamps:
+  login: 1578886993566
+  logout: 1578886753650
+  lastteleport: 1578886996636
+ipAddress: 192.168.1.14
+logoutlocation:
+  world: world
+  x: 144.0
+  y: 63.0
+  z: 74.0
+  yaw: -42.300003
+  pitch: -62.249985
+lastlocation:
+  world: world
+  x: 144.0
+  y: 63.0
+  z: 74.0
+  yaw: -42.300003
+  pitch: -62.249985

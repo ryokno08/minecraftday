@@ -1,0 +1,29 @@
+lastAccountName: umi0925
+timestamps:
+  login: 1578969267884
+  logout: 1578969276748
+  lastteleport: 1578914090370
+ipAddress: 126.72.103.105
+logoutlocation:
+  world: world
+  x: -164.4735138342338
+  y: 64.0
+  z: -199.3444187195085
+  yaw: -128.55006
+  pitch: 20.550003
+homes:
+  home:
+    world: world
+    x: 135.83983339355177
+    y: 74.0
+    z: 59.08218591584192
+    yaw: -72.749756
+    pitch: 16.800032
+lastlocation:
+  world: world
+  x: -158.48994691662276
+  y: 63.0
+  z: -194.35578127249445
+  yaw: -1.6499939
+  pitch: 39.149994
+money: '6.06'
