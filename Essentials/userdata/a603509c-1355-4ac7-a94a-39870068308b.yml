@@ -1,12 +1,23 @@
 lastAccountName: Diamond_0607
 timestamps:
-  login: 1578923891191
-  logout: 1578924021591
-ipAddress: 124.25.177.126
+  login: 1581231260144
+  logout: 1581231380882
+  lastteleport: 1581231121751
+ipAddress: 106.72.132.97
 logoutlocation:
   world: world
-  x: -193.33712355572322
-  y: 13.0
-  z: -439.7908478943944
-  yaw: 181.7655
-  pitch: 15.4718685
+  x: -192.4563165060918
+  y: 11.0
+  z: -201.69999998807907
+  yaw: -100.3457
+  pitch: 12.245987
+lastlocation:
+  world: world
+  x: 31.409084450188253
+  y: 63.0
+  z: -747.8583932753995
+  yaw: -254.0875
+  pitch: 4.7253895
+money: '53379.41099991565930709'
+afk: false
+homes: {}

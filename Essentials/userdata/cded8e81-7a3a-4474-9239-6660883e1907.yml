@@ -1,20 +1,28 @@
 lastAccountName: CrazyFlamy
 timestamps:
-  login: 1578951620283
-  lastteleport: 1578951865393
-  logout: 1578951886294
+  login: 1579400537072
+  lastteleport: 1579400912294
+  logout: 1579400996826
 ipAddress: 27.94.127.117
 lastlocation:
   world: world
-  x: -53.30000001192092
-  y: 46.0
-  z: -379.9779791691085
-  yaw: 40.2023
-  pitch: 46.799637
+  x: -153.30000001192093
+  y: 63.0
+  z: -188.69999998807907
+  yaw: 13.049916
+  pitch: 45.299988
 logoutlocation:
   world: world
-  x: -177.73059374581678
+  x: -158.9582166442396
   y: 64.0
-  z: -191.50746351571254
-  yaw: 119.40156
-  pitch: 11.249966
+  z: -187.8964028075547
+  yaw: 34.499973
+  pitch: 33.749966
+homes:
+  home:
+    world: world
+    x: -139.0451128946964
+    y: 78.0
+    z: -326.6243593777189
+    yaw: 109.79923
+    pitch: 13.500097

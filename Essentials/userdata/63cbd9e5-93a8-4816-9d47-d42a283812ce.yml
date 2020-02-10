@@ -1,20 +1,40 @@
 lastAccountName: yokmama
 timestamps:
-  login: 1578969607620
-  lastteleport: 1578969640879
-  logout: 1578969648897
-ipAddress: 126.72.103.105
+  login: 1581255967452
+  lastteleport: 1581256117581
+  logout: 1581254116872
+ipAddress: 126.150.249.73
 lastlocation:
-  world: world_nether
-  x: -7.5
-  y: 45.0
-  z: -7.5
-  yaw: -57.60001
-  pitch: 17.85
+  world: world
+  x: 64.89036904684444
+  y: 63.0
+  z: -535.0046036358895
+  yaw: -323.23517
+  pitch: 15.872012
 logoutlocation:
-  world: world_nether
-  x: -7.5
-  y: 45.0
-  z: -7.5
-  yaw: -268.6499
-  pitch: 50.39998
+  world: world
+  x: -28.783261789766655
+  y: 63.0
+  z: -643.9450679927463
+  yaw: 281.87112
+  pitch: 14.580838
+afk: true
+homes:
+  t1:
+    world: world
+    x: 10.277007339029522
+    y: 64.0
+    z: -631.3731247981852
+    yaw: 109.65014
+    pitch: 32.99993
+  base:
+    world: world
+    x: -152.45158204718862
+    y: 64.0
+    z: -196.11390585714656
+    yaw: -166.70122
+    pitch: 17.317898
+money: '250'
+mail:
+- §6[§rTsubochanDayo§6] §rバーガーハウス元に戻してくれてありがとうございます！誰がやったかわかりましたか？
+- §6[§rumi0925§6] §rhello

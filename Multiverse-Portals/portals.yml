@@ -1,1 +1,21 @@
-portals: {}
+portals:
+  toWorld:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: yokmama
+    location: 358.0,4.0,81.0:366.0,10.0,81.0
+    world: creative_world
+    destination: e:world:-30.0,63.0,-639.0:1.295:182.062
+  toCreative:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: yokmama
+    location: -35.0,67.0,-628.0:-25.0,72.0,-628.0
+    world: world
+    destination: e:creative_world:362.0,4.0,70.0:9.981:179.748
