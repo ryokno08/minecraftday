@@ -1,0 +1,29 @@
+lastAccountName: csawada
+timestamps:
+  login: 1581231590701
+  lastteleport: 1581231596344
+  logout: 1581231692475
+ipAddress: 106.72.132.97
+lastlocation:
+  world: creative_world
+  x: 397.69999998807907
+  y: 4.887864242044754
+  z: 17.30000001192093
+  yaw: -316.03098
+  pitch: 17.854452
+logoutlocation:
+  world: world
+  x: 78.51923304004927
+  y: 62.0
+  z: -516.3000000119209
+  yaw: -2.5445557
+  pitch: 31.666965
+money: '2661.87100000000000355'
+homes:
+  home:
+    world: world
+    x: 94.58372551414307
+    y: 64.0
+    z: -524.4129926599854
+    yaw: 66.684845
+    pitch: 11.399978

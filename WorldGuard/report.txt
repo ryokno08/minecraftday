@@ -1,0 +1,1175 @@
+================================
+Server Information
+================================
+
+Bukkit Version: 1.15.2-R0.1-SNAPSHOT
+Implementation: CraftBukkit git-Spigot-c574e08-c985389 (MC: 1.15.2)
+Player Count: 1/100
+Server Class Source: file:/home/ksuser/minecraft/spigot/1.15.2/spigot-1.15.2.jar
+Spawning: 
+	Ambient Spawn Limit: 15
+	Animal Spawn Limit: 10
+	Monster Spawn Limit: 70
+	Ticks per Animal Spawn: 400
+	Ticks per Monster Spawn: 1
+Configuration: 
+	Nether Enabled?: true
+	The End Enabled?: true
+	Generate Structures?: true
+	Flight Allowed?: false
+	Connection Throttle: 4000
+	Idle Timeout: 0
+	Shutdown Message: Server closed
+	Default Game Mode: SURVIVAL
+	Main World Type: default
+	View Distance: 10
+Protection: Spawn Radius: 16
+
+================================
+Plugins
+================================
+
+Plugin Count: 13
+Plugin: WorldEdit: 
+	Enabled?: true
+	Full Name: WorldEdit v7.1.0;8e55131
+	Version: 7.1.0;8e55131
+	Website: null
+	Description: null
+	Authors: 
+	Load Before: 
+	Dependencies: 
+	Soft Dependencies: 
+	Folder: /home/ksuser/minecraft/spigot/1.15.2/plugins/WorldEdit
+	Entry Point: com.sk89q.worldedit.bukkit.WorldEditPlugin
+	Class: com.sk89q.worldedit.bukkit.WorldEditPlugin
+	Class Source: file:/home/ksuser/minecraft/spigot/1.15.2/plugins/worldedit-bukkit-7.1.0.jar
+Plugin: WorldBorder: 
+	Enabled?: true
+	Full Name: WorldBorder v1.9.10 (beta)
+	Version: 1.9.10 (beta)
+	Website: null
+	Description: Efficient, feature-rich plugin for limiting the size of your worlds.
+	Authors: Brettflan
+	Load Before: 
+	Dependencies: 
+	Soft Dependencies: dynmap
+	Folder: /home/ksuser/minecraft/spigot/1.15.2/plugins/WorldBorder
+	Entry Point: com.wimbli.WorldBorder.WorldBorder
+	Class: com.wimbli.WorldBorder.WorldBorder
+	Class Source: file:/home/ksuser/minecraft/spigot/1.15.2/plugins/WorldBorder.jar
+Plugin: Vault: 
+	Enabled?: true
+	Full Name: Vault v1.7.2-b107
+	Version: 1.7.2-b107
+	Website: https://dev.bukkit.org/projects/vault
+	Description: Vault is a Permissions & Economy API to allow plugins to more easily hook into these systems without needing to hook each individual system themselves.
+	Authors: 
+		cereal
+		Sleaker
+		mung3r
+	Load Before: 
+	Dependencies: 
+	Soft Dependencies: 
+	Folder: /home/ksuser/minecraft/spigot/1.15.2/plugins/Vault
+	Entry Point: net.milkbowl.vault.Vault
+	Class: net.milkbowl.vault.Vault
+	Class Source: file:/home/ksuser/minecraft/spigot/1.15.2/plugins/Vault.jar
+Plugin: Multiverse-Core: 
+	Enabled?: true
+	Full Name: Multiverse-Core v4.1.0-b775
+	Version: 4.1.0-b775
+	Website: https://dev.bukkit.org/projects/multiverse-core
+	Description: null
+	Authors: 
+		Rigby
+		fernferret
+		lithium3141
+		main--
+		dumptruckman
+	Load Before: 
+	Dependencies: 
+	Soft Dependencies: 
+	Folder: /home/ksuser/minecraft/spigot/1.15.2/plugins/Multiverse-Core
+	Entry Point: com.onarandombox.MultiverseCore.MultiverseCore
+	Class: com.onarandombox.MultiverseCore.MultiverseCore
+	Class Source: file:/home/ksuser/minecraft/spigot/1.15.2/plugins/Multiverse-Core-4.1.0.jar
+Plugin: WorldGuard: 
+	Enabled?: true
+	Full Name: WorldGuard v7.0.2-SNAPSHOT;bf2593e
+	Version: 7.0.2-SNAPSHOT;bf2593e
+	Website: null
+	Description: null
+	Authors: 
+	Load Before: 
+	Dependencies: WorldEdit
+	Soft Dependencies: CommandBook
+	Folder: /home/ksuser/minecraft/spigot/1.15.2/plugins/WorldGuard
+	Entry Point: com.sk89q.worldguard.bukkit.WorldGuardPlugin
+	Class: com.sk89q.worldguard.bukkit.WorldGuardPlugin
+	Class Source: file:/home/ksuser/minecraft/spigot/1.15.2/plugins/worldguard-bukkit-7.0.2.jar
+Plugin: CoreProtect: 
+	Enabled?: true
+	Full Name: CoreProtect v2.18.1
+	Version: 2.18.1
+	Website: http://coreprotect.net
+	Description: 
+		Provides block protection for your server.
+	
+	Authors: Intelli
+	Load Before: 
+	Dependencies: 
+	Soft Dependencies: WorldEdit
+	Folder: /home/ksuser/minecraft/spigot/1.15.2/plugins/CoreProtect
+	Entry Point: net.coreprotect.CoreProtect
+	Class: net.coreprotect.CoreProtect
+	Class Source: file:/home/ksuser/minecraft/spigot/1.15.2/plugins/CoreProtect-2.18.1.jar
+Plugin: DiscordSRV: 
+	Enabled?: true
+	Full Name: DiscordSRV v1.18.4
+	Version: 1.18.4
+	Website: https://github.com/DiscordSRV/DiscordSRV
+	Description: The most powerful, configurable, open-source Discord bridge plugin out there.
+	Authors: 
+		Scarsz
+		Androkai
+	Load Before: StaffPlus
+	Dependencies: 
+	Soft Dependencies: 
+		GroupManager
+		GroupManagerX
+		LuckPerms
+		PermissionsEx
+		zPermissions
+		HeroChat
+		Legendchat
+		LunaChat
+		TownyChat
+		UltimateChat
+		VentureChat
+		Multiverse-Core
+		Vault
+		PlaceholderAPI
+	Folder: /home/ksuser/minecraft/spigot/1.15.2/plugins/DiscordSRV
+	Entry Point: github.scarsz.discordsrv.DiscordSRV
+	Class: github.scarsz.discordsrv.DiscordSRV
+	Class Source: file:/home/ksuser/minecraft/spigot/1.15.2/plugins/DiscordSRV-Build-1.18.4.jar
+Plugin: Essentials: 
+	Enabled?: true
+	Full Name: Essentials v2.17.1.47
+	Version: 2.17.1.47
+	Website: http://tiny.cc/EssentialsCommands
+	Description: Provides an essential, core set of commands for Bukkit.
+	Authors: 
+		Zenexer
+		ementalo
+		Aelux
+		Brettflan
+		KimKandor
+		snowleo
+		ceulemans
+		Xeology
+		KHobbits
+		md_5
+		Iaccidentally
+		drtshock
+		vemacs
+		SupaHam
+		md678685
+	Load Before: 
+	Dependencies: 
+	Soft Dependencies: Vault
+	Folder: /home/ksuser/minecraft/spigot/1.15.2/plugins/Essentials
+	Entry Point: com.earth2me.essentials.Essentials
+	Class: com.earth2me.essentials.Essentials
+	Class Source: file:/home/ksuser/minecraft/spigot/1.15.2/plugins/EssentialsX-2.17.1.47.jar
+Plugin: Multiverse-Inventories: 
+	Enabled?: true
+	Full Name: Multiverse-Inventories v3.0.0-b459
+	Version: 3.0.0-b459
+	Website: null
+	Description: null
+	Authors: dumptruckman
+	Load Before: 
+	Dependencies: Multiverse-Core
+	Soft Dependencies: 
+		MultiInv
+		WorldInventories
+		Multiverse-Adventure
+	Folder: /home/ksuser/minecraft/spigot/1.15.2/plugins/Multiverse-Inventories
+	Entry Point: com.onarandombox.multiverseinventories.MultiverseInventories
+	Class: com.onarandombox.multiverseinventories.MultiverseInventories
+	Class Source: file:/home/ksuser/minecraft/spigot/1.15.2/plugins/Multiverse-Inventories-3.0.0.jar
+Plugin: Jobs: 
+	Enabled?: true
+	Full Name: Jobs v4.15.0-devBuild
+	Version: 4.15.0-devBuild
+	Website: https://www.spigotmc.org/resources/4216/
+	Description: Jobs Plugin for the BukkitAPI
+	Authors: 
+		phrstbrn
+		Zrips
+		montlikadani
+	Load Before: 
+	Dependencies: 
+	Soft Dependencies: 
+		Vault
+		MythicMobs
+		McMMO
+		WorldGuard
+		MyPet
+		PlaceholderAPI
+	Folder: /home/ksuser/minecraft/spigot/1.15.2/plugins/Jobs
+	Entry Point: com.gamingmesh.jobs.Jobs
+	Class: com.gamingmesh.jobs.Jobs
+	Class Source: file:/home/ksuser/minecraft/spigot/1.15.2/plugins/Jobs4.15.0-devBuild.jar
+Plugin: LWC: 
+	Enabled?: true
+	Full Name: LWC v2.2.3-9cd94a3
+	Version: 2.2.3-9cd94a3
+	Website: https://www.spigotmc.org/resources/lwc-extended.69551/
+	Description: 
+		Inventory protection & management utilizing SQLite or MySQL as its backend Other blocks can also be protected individually, if configured.
+	
+	Authors: 
+		Hidendra
+		pop4959
+		Me_Goes_RAWR
+	Load Before: 
+	Dependencies: 
+	Soft Dependencies: Vault
+	Folder: /home/ksuser/minecraft/spigot/1.15.2/plugins/LWC
+	Entry Point: com.griefcraft.lwc.LWCPlugin
+	Class: com.griefcraft.lwc.LWCPlugin
+	Class Source: file:/home/ksuser/minecraft/spigot/1.15.2/plugins/LWCX-2.2.3.jar
+Plugin: Multiverse-Portals: 
+	Enabled?: true
+	Full Name: Multiverse-Portals v4.1.0-b805
+	Version: 4.1.0-b805
+	Website: null
+	Description: null
+	Authors: 
+		Rigby
+		fernferret
+	Load Before: 
+	Dependencies: Multiverse-Core
+	Soft Dependencies: 
+	Folder: /home/ksuser/minecraft/spigot/1.15.2/plugins/Multiverse-Portals
+	Entry Point: com.onarandombox.MultiversePortals.MultiversePortals
+	Class: com.onarandombox.MultiversePortals.MultiversePortals
+	Class Source: file:/home/ksuser/minecraft/spigot/1.15.2/plugins/Multiverse-Portals-4.1.0.jar
+Plugin: AuctionHouse: 
+	Enabled?: true
+	Full Name: AuctionHouse v1.9.1
+	Version: 1.9.1
+	Website: null
+	Description: null
+	Authors: klugemonkey
+	Load Before: 
+	Dependencies: 
+	Soft Dependencies: 
+		Vault
+		HeadDatabase
+		DiscordSRV
+	Folder: /home/ksuser/minecraft/spigot/1.15.2/plugins/AuctionHouse
+	Entry Point: com.spawnchunk.auctionhouse.AuctionHouse
+	Class: com.spawnchunk.auctionhouse.AuctionHouse
+	Class Source: file:/home/ksuser/minecraft/spigot/1.15.2/plugins/AuctionHouse-1.9.1.jar
+
+================================
+Scheduler
+================================
+
+Pending Task Count: 17
+Task: #5: 
+	Owner: LWC
+	Runnable: <Unknown>
+	Synchronous?: true
+Task: #6: 
+	Owner: WorldBorder
+	Runnable: <Unknown>
+	Synchronous?: true
+Task: #7: 
+	Owner: Multiverse-Core
+	Runnable: <Unknown>
+	Synchronous?: true
+Task: #8: 
+	Owner: Multiverse-Core
+	Runnable: <Unknown>
+	Synchronous?: false
+Task: #9: 
+	Owner: WorldGuard
+	Runnable: <Unknown>
+	Synchronous?: true
+Task: #11: 
+	Owner: WorldGuard
+	Runnable: <Unknown>
+	Synchronous?: true
+Task: #18: 
+	Owner: Essentials
+	Runnable: <Unknown>
+	Synchronous?: true
+Task: #20: 
+	Owner: Multiverse-Inventories
+	Runnable: <Unknown>
+	Synchronous?: true
+Task: #21: 
+	Owner: DiscordSRV
+	Runnable: <Unknown>
+	Synchronous?: true
+Task: #22: 
+	Owner: DiscordSRV
+	Runnable: <Unknown>
+	Synchronous?: true
+Task: #23: 
+	Owner: DiscordSRV
+	Runnable: <Unknown>
+	Synchronous?: false
+Task: #25: 
+	Owner: DiscordSRV
+	Runnable: <Unknown>
+	Synchronous?: false
+Task: #28: 
+	Owner: AuctionHouse
+	Runnable: <Unknown>
+	Synchronous?: true
+Task: #29: 
+	Owner: AuctionHouse
+	Runnable: <Unknown>
+	Synchronous?: true
+Task: #30: 
+	Owner: AuctionHouse
+	Runnable: <Unknown>
+	Synchronous?: true
+Task: #31: 
+	Owner: Vault
+	Runnable: <Unknown>
+	Synchronous?: false
+Task: #36: 
+	Owner: Essentials
+	Runnable: <Unknown>
+	Synchronous?: true
+
+================================
+Services
+================================
+
+net.milkbowl.vault.metrics.bukkit.Metrics: net.milkbowl.vault.metrics.bukkit.Metrics@3ea421a7
+com.griefcraft.util.Metrics: com.griefcraft.util.Metrics@c145e0a
+com.sk89q.worldedit.bukkit.bstats.bukkit.Metrics: com.sk89q.worldedit.bukkit.bstats.bukkit.Metrics@1d4f329
+net.milkbowl.vault.permission.Permission: net.milkbowl.vault.permission.plugins.Permission_SuperPerms@7615b74
+net.milkbowl.vault.economy.Economy: net.milkbowl.vault.economy.plugins.Economy_Essentials@18d7eb26
+net.coreprotect.bukkit.MetricsLite: net.coreprotect.bukkit.MetricsLite@361d0238
+com.earth2me.essentials.metrics.Metrics: com.earth2me.essentials.metrics.Metrics@1076f269
+github.scarsz.discordsrv.objects.metrics.BStats: github.scarsz.discordsrv.objects.metrics.BStats@1dc1b1e8
+com.sk89q.worldguard.bukkit.bstats.bukkit.Metrics: com.sk89q.worldguard.bukkit.bstats.bukkit.Metrics@3ae8e7ad
+
+================================
+Worlds
+================================
+
+World Count: 4
+World: world: 
+	UUID: 2f978caa-d1f2-435e-bce0-4031c655090a
+	World Type: NORMAL
+	Environment: NORMAL
+	Chunk Generator: <Default>
+	Spawning: 
+		Animals?: true
+		Monsters?: true
+		Ambient Spawn Limit: 15
+		Animal Spawn Limit: 10
+		Monster Spawn Limit: 70
+		Water Creature Spawn Limit: 15
+	Configuration: 
+		Difficulty: EASY
+		Max Height: 256
+		Sea Level: 63
+	State: 
+		Spawn Location: Location{world=CraftWorld{name=world},x=-160.0,y=63.0,z=-192.0,pitch=0.0,yaw=0.0}
+		Full Time: 46901160
+		Weather Duration: 63339
+		Thunder Duration: 149404
+	Protection: 
+		PVP?: false
+		Game Rules: doFireTick=true, maxCommandChainLength=65536, fireDamage=true, reducedDebugInfo=false, disableElytraMovementCheck=false, announceAdvancements=true, drowningDamage=true, commandBlockOutput=true, doMobSpawning=true, maxEntityCramming=24, disableRaids=false, doWeatherCycle=true, doDaylightCycle=true, showDeathMessages=true, doTileDrops=true, doInsomnia=true, doImmediateRespawn=false, naturalRegeneration=true, doMobLoot=true, fallDamage=true, keepInventory=true, doEntityDrops=true, doLimitedCrafting=false, mobGriefing=true, randomTickSpeed=3, spawnRadius=10, doTraderSpawning=true, logAdminCommands=true, spectatorsGenerateChunks=true, sendCommandFeedback=true, doPatrolSpawning=true
+World: world_nether: 
+	UUID: 8d93e350-88be-46b4-8fd7-3bce5b6ab5f9
+	World Type: NORMAL
+	Environment: NETHER
+	Chunk Generator: <Default>
+	Spawning: 
+		Animals?: true
+		Monsters?: true
+		Ambient Spawn Limit: 15
+		Animal Spawn Limit: 10
+		Monster Spawn Limit: 70
+		Water Creature Spawn Limit: 15
+	Configuration: 
+		Difficulty: EASY
+		Max Height: 256
+		Sea Level: 63
+	State: 
+		Spawn Location: Location{world=CraftWorld{name=world_nether},x=-8.0,y=57.0,z=-8.0,pitch=0.0,yaw=0.0}
+		Full Time: 44252925
+		Weather Duration: 0
+		Thunder Duration: 0
+	Protection: 
+		PVP?: false
+		Game Rules: doFireTick=true, maxCommandChainLength=65536, fireDamage=true, reducedDebugInfo=false, disableElytraMovementCheck=false, announceAdvancements=true, drowningDamage=true, commandBlockOutput=true, doMobSpawning=true, maxEntityCramming=24, disableRaids=false, doWeatherCycle=true, doDaylightCycle=true, showDeathMessages=true, doTileDrops=true, doInsomnia=true, doImmediateRespawn=false, naturalRegeneration=true, doMobLoot=true, fallDamage=true, keepInventory=true, doEntityDrops=true, doLimitedCrafting=false, mobGriefing=true, randomTickSpeed=3, spawnRadius=10, doTraderSpawning=true, logAdminCommands=true, spectatorsGenerateChunks=true, sendCommandFeedback=true, doPatrolSpawning=true
+World: world_the_end: 
+	UUID: 6d931872-4a23-47d7-87d7-f82a404e460a
+	World Type: NORMAL
+	Environment: THE_END
+	Chunk Generator: <Default>
+	Spawning: 
+		Animals?: true
+		Monsters?: true
+		Ambient Spawn Limit: 15
+		Animal Spawn Limit: 10
+		Monster Spawn Limit: 70
+		Water Creature Spawn Limit: 15
+	Configuration: 
+		Difficulty: EASY
+		Max Height: 256
+		Sea Level: 63
+	State: 
+		Spawn Location: Location{world=CraftWorld{name=world_the_end},x=0.0,y=62.0,z=0.0,pitch=0.0,yaw=0.0}
+		Full Time: 44252926
+		Weather Duration: 0
+		Thunder Duration: 0
+	Protection: 
+		PVP?: false
+		Game Rules: doFireTick=true, maxCommandChainLength=65536, fireDamage=true, reducedDebugInfo=false, disableElytraMovementCheck=false, announceAdvancements=true, drowningDamage=true, commandBlockOutput=true, doMobSpawning=true, maxEntityCramming=24, disableRaids=false, doWeatherCycle=true, doDaylightCycle=true, showDeathMessages=true, doTileDrops=true, doInsomnia=true, doImmediateRespawn=false, naturalRegeneration=true, doMobLoot=true, fallDamage=true, keepInventory=true, doEntityDrops=true, doLimitedCrafting=false, mobGriefing=true, randomTickSpeed=3, spawnRadius=10, doTraderSpawning=true, logAdminCommands=true, spectatorsGenerateChunks=true, sendCommandFeedback=true, doPatrolSpawning=true
+World: creative_world: 
+	UUID: 24b8697a-0f6a-4e51-a50f-b4def9af883c
+	World Type: FLAT
+	Environment: NORMAL
+	Chunk Generator: <Default>
+	Spawning: 
+		Animals?: false
+		Monsters?: false
+		Ambient Spawn Limit: 15
+		Animal Spawn Limit: 10
+		Monster Spawn Limit: 70
+		Water Creature Spawn Limit: 15
+	Configuration: 
+		Difficulty: PEACEFUL
+		Max Height: 256
+		Sea Level: 63
+	State: 
+		Spawn Location: Location{world=CraftWorld{name=creative_world},x=224.0,y=4.0,z=160.0,pitch=0.0,yaw=0.0}
+		Full Time: 10057839
+		Weather Duration: 81296
+		Thunder Duration: 59481
+	Protection: 
+		PVP?: false
+		Game Rules: doFireTick=false, maxCommandChainLength=65536, fireDamage=true, reducedDebugInfo=false, disableElytraMovementCheck=false, announceAdvancements=true, drowningDamage=true, commandBlockOutput=true, doMobSpawning=false, maxEntityCramming=24, disableRaids=false, doWeatherCycle=false, doDaylightCycle=true, showDeathMessages=true, doTileDrops=true, doInsomnia=true, doImmediateRespawn=false, naturalRegeneration=true, doMobLoot=true, fallDamage=true, keepInventory=false, doEntityDrops=true, doLimitedCrafting=false, mobGriefing=false, randomTickSpeed=3, spawnRadius=10, doTraderSpawning=true, logAdminCommands=true, spectatorsGenerateChunks=true, sendCommandFeedback=true, doPatrolSpawning=true
+
+================================
+Performance
+================================
+
+World Count: 4
+World: world: 
+	Keep in Memory?: true
+	Entity Count: 215
+	Chunk Count: 1058
+	Tile Entity Count: 921
+	Entity Distribution: 
+		CraftBoat: 1 [0.000945/chunk]
+		CraftCreeper: 21 [0.019849/chunk]
+		CraftArmorStand: 5 [0.004726/chunk]
+		CraftExperienceOrb: 3 [0.002836/chunk]
+		CraftSkeleton: 29 [0.027410/chunk]
+		CraftDonkey: 4 [0.003781/chunk]
+		CraftSheep: 16 [0.015123/chunk]
+		CraftItemFrame: 2 [0.001890/chunk]
+		CraftWanderingTrader: 1 [0.000945/chunk]
+		CraftHorse: 2 [0.001890/chunk]
+		CraftMinecartChest: 21 [0.019849/chunk]
+		CraftPlayer: 1 [0.000945/chunk]
+		CraftSquid: 5 [0.004726/chunk]
+		CraftSkeletonHorse: 3 [0.002836/chunk]
+		CraftSalmon: 17 [0.016068/chunk]
+		CraftZombie: 20 [0.018904/chunk]
+		CraftTurtle: 12 [0.011342/chunk]
+		CraftRabbit: 1 [0.000945/chunk]
+		CraftSpider: 1 [0.000945/chunk]
+		CraftEnderman: 1 [0.000945/chunk]
+		CraftWolf: 7 [0.006616/chunk]
+		CraftCow: 4 [0.003781/chunk]
+		CraftWitch: 1 [0.000945/chunk]
+		CraftChicken: 10 [0.009452/chunk]
+		CraftItem: 9 [0.008507/chunk]
+		CraftBat: 18 [0.017013/chunk]
+	Tile Entity Distribution: 
+		CraftFurnaceFurnace: 160 [0.151229/chunk]
+		CraftBarrel: 109 [0.103025/chunk]
+		CraftBed: 62 [0.058601/chunk]
+		CraftSmoker: 6 [0.005671/chunk]
+		CraftChest: 310 [0.293006/chunk]
+		CraftJukebox: 1 [0.000945/chunk]
+		CraftShulkerBox: 4 [0.003781/chunk]
+		CraftEnchantingTable: 4 [0.003781/chunk]
+		CraftBeacon: 101 [0.095463/chunk]
+		CraftBell: 2 [0.001890/chunk]
+		CraftSkull: 10 [0.009452/chunk]
+		CraftHopper: 1 [0.000945/chunk]
+		CraftBrewingStand: 2 [0.001890/chunk]
+		CraftCampfire: 22 [0.020794/chunk]
+		CraftBlastFurnace: 2 [0.001890/chunk]
+		CraftBanner: 11 [0.010397/chunk]
+		CraftSign: 99 [0.093573/chunk]
+		CraftDropper: 1 [0.000945/chunk]
+		CraftCreatureSpawner: 14 [0.013233/chunk]
+World: world_nether: 
+	Keep in Memory?: true
+	Entity Count: 78
+	Chunk Count: 529
+	Tile Entity Count: 10
+	Entity Distribution: 
+		CraftGhast: 1 [0.001890/chunk]
+		CraftPigZombie: 75 [0.141777/chunk]
+		CraftExperienceOrb: 2 [0.003781/chunk]
+	Tile Entity Distribution: 
+		CraftFurnaceFurnace: 1 [0.001890/chunk]
+		CraftChest: 7 [0.013233/chunk]
+		CraftCreatureSpawner: 2 [0.003781/chunk]
+World: world_the_end: 
+	Keep in Memory?: true
+	Entity Count: 77
+	Chunk Count: 529
+	Tile Entity Count: 22
+	Entity Distribution: CraftEnderman: 77 [0.145558/chunk]
+	Tile Entity Distribution: 
+		CraftBlockEntityState: 20 [0.037807/chunk]
+		CraftEndGateway: 2 [0.003781/chunk]
+World: creative_world: 
+	Keep in Memory?: true
+	Entity Count: 52
+	Chunk Count: 529
+	Tile Entity Count: 274
+	Entity Distribution: 
+		CraftPainting: 3 [0.005671/chunk]
+		CraftItemFrame: 12 [0.022684/chunk]
+		CraftArmorStand: 1 [0.001890/chunk]
+		CraftMinecartRideable: 3 [0.005671/chunk]
+		CraftVillager: 33 [0.062382/chunk]
+	Tile Entity Distribution: 
+		CraftFurnaceFurnace: 31 [0.058601/chunk]
+		CraftBarrel: 20 [0.037807/chunk]
+		CraftBed: 34 [0.064272/chunk]
+		CraftSmoker: 6 [0.011342/chunk]
+		CraftChest: 56 [0.105860/chunk]
+		CraftEnchantingTable: 1 [0.001890/chunk]
+		CraftBeacon: 31 [0.058601/chunk]
+		CraftSkull: 9 [0.017013/chunk]
+		CraftBell: 2 [0.003781/chunk]
+		CraftHopper: 6 [0.011342/chunk]
+		CraftBrewingStand: 1 [0.001890/chunk]
+		CraftCampfire: 34 [0.064272/chunk]
+		CraftBanner: 30 [0.056711/chunk]
+		CraftSign: 13 [0.024575/chunk]
+
+================================
+System Information
+================================
+
+Java: Oracle Corporation 1.8.0_222 (http://java.oracle.com/)
+Operating System: Linux 2.6.32-754.17.1.el6.x86_64 (amd64)
+Available Processors: 2
+Free Memory: 795 MB
+Max Memory: 1999 MB
+Total Memory: 1999 MB
+System Load Average: 0.1
+Java Uptime: 891 minutes
+Startup: 
+	Input Arguments: 
+		-Xmx2048M
+		-Xms2048M
+		-Duser.timezone=JST
+Virtual Machine: 
+	Name: OpenJDK 64-Bit Server VM
+	Vendor: Oracle Corporation
+	Version: Oracle Corporation
+Specification: 
+	Name: Java Virtual Machine Specification
+	Vendor: Oracle Corporation
+	Version: 1.8
+Class Loader: 
+	Loaded Class Count: 21180
+	Total Loaded Class Count: 21360
+	Unloaded Class Count: 180
+Garbage Collectors: 
+	PS Scavenge: 
+		Collection Count: 5078
+		Collection Time: 122884ms
+	PS MarkSweep: 
+		Collection Count: 12
+		Collection Time: 10030ms
+Threads: 
+	#8422 OkHttp Dispatcher: TIMED_WAITING
+	#8411 OkHttp Dispatcher: TIMED_WAITING
+	#8392 Okio Watchdog: TIMED_WAITING
+	#8391 process reaper: TIMED_WAITING
+	#124 pool-37-thread-1: WAITING
+	#119 pool-39-thread-1: WAITING
+	#115 Netty Epoll Server IO #3: RUNNABLE
+	#114 Netty Epoll Server IO #2: RUNNABLE
+	#113 Netty Epoll Server IO #1: RUNNABLE
+	#83 Thread-28: TIMED_WAITING
+	#79 Jobs-BufferedPaymentThread: TIMED_WAITING
+	#78 Jobs-DatabaseSaveTask: TIMED_WAITING
+	#76 JDA RateLimit-Worker 5: WAITING
+	#75 JDA RateLimit-Worker 4: WAITING
+	#74 DiscordSRV - Channel Topic Updater: TIMED_WAITING
+	#73 DiscordSRV - Server Watchdog: TIMED_WAITING
+	#72 JDA RateLimit-Worker 3: WAITING
+	#71 DiscordSRV - Console Message Queue Worker: TIMED_WAITING
+	#70 DiscordSRV - Presence Updater: TIMED_WAITING
+	#69 JDA MainWS-WriteThread: WAITING
+	#68 JDA MainWS-ReadThread: RUNNABLE
+	#62 JDA Gateway-Worker 1: TIMED_WAITING
+	#59 JDA RateLimit-Worker 2: WAITING
+	#56 OkHttp ConnectionPool: TIMED_WAITING
+	#54 JDA RateLimit-Worker 1: WAITING
+	#49 pool-38-thread-1: TIMED_WAITING
+	#47 Thread-20: TIMED_WAITING
+	#46 Thread-19: TIMED_WAITING
+	#41 WorldGuard Region I/O: TIMED_WAITING
+	#40 poi IO worker: WAITING
+	#39 chunk IO worker: WAITING
+	#38 poi IO worker: WAITING
+	#37 chunk IO worker: WAITING
+	#36 poi IO worker: WAITING
+	#35 chunk IO worker: WAITING
+	#34 poi IO worker: WAITING
+	#33 chunk IO worker: WAITING
+	#32 Thread-9: TIMED_WAITING
+	#31 mysql-cj-abandoned-connection-cleanup: TIMED_WAITING
+	#30 Thread-8: TIMED_WAITING
+	#29 Timer-0: TIMED_WAITING
+	#28 WorldEdit Session Manager: TIMED_WAITING
+	#27 Netty Epoll Server IO #0: RUNNABLE
+	#26 ObjectCleanerThread: TIMED_WAITING
+	#25 Spigot Metrics Thread: TIMED_WAITING
+	#24 Spigot Watchdog Thread: TIMED_WAITING
+	#22 Server console handler: RUNNABLE
+	#23 TerminalConsoleWriter: WAITING
+	#21 DestroyJavaVM: RUNNABLE
+	#14 Server thread: RUNNABLE
+	#20 Server Infinisleeper: TIMED_WAITING
+	#18 NonBlockingInputStreamThread: WAITING
+	#13 Snooper Timer: WAITING
+	#4 Signal Dispatcher: RUNNABLE
+	#3 Finalizer: WAITING
+	#2 Reference Handler: WAITING
+
+================================
+WorldGuard Configuration
+================================
+
+Configuration: 
+	hasCommandBookGodMode: false
+	extraStats: true
+	useRegionsCreatureSpawnEvent: true
+	activityHaltToggle: false
+	useGodPermission: false
+	useGodGroup: false
+	useAmphibiousGroup: false
+	usePlayerMove: true
+	usePlayerTeleports: true
+	deopOnJoin: false
+	blockInGameOp: false
+	migrateRegionsToUuid: false
+	keepUnresolvedNames: true
+	particleEffects: true
+	hostKeysAllowFMLClients: false
+World: world: 
+	Configuration: 
+		blockPotions: []
+		allowAllInteract: {}
+		blockUseAtFeet: {}
+		usePaperEntityOrigin: false
+		blacklistFile: plugins/WorldGuard/worlds/world/blacklist.txt
+		boundedLocationFlags: false
+		useRegions: true
+		simulateSponge: false
+		spongeRadius: 2
+		redstoneSponges: false
+		summaryOnStart: true
+		opPermissions: true
+		buildPermissions: false
+		buildPermissionDenyMessage: §eSorry, but you are not permitted to do that here.
+		fireSpreadDisableToggle: false
+		itemDurability: true
+		disableExpDrops: false
+		blockPotionsAlways: false
+		disableConduitEffects: false
+		pumpkinScuba: false
+		noPhysicsGravel: false
+		noPhysicsSand: false
+		ropeLadders: false
+		allowPortalAnywhere: false
+		preventWaterDamage: []
+		blockLighter: false
+		disableFireSpread: false
+		disableFireSpreadBlocks: []
+		preventLavaFire: false
+		allowedLavaSpreadOver: []
+		blockTNTExplosions: false
+		blockTNTBlockDamage: false
+		blockCreeperExplosions: false
+		blockCreeperBlockDamage: false
+		blockWitherExplosions: false
+		blockWitherBlockDamage: false
+		blockWitherSkullExplosions: false
+		blockWitherSkullBlockDamage: false
+		blockEnderDragonBlockDamage: false
+		blockEnderDragonPortalCreation: false
+		blockFireballExplosions: false
+		blockFireballBlockDamage: false
+		blockOtherExplosions: false
+		blockEntityPaintingDestroy: false
+		blockEntityItemFrameDestroy: false
+		blockEntityArmorStandDestroy: false
+		blockPluginSpawning: true
+		blockGroundSlimes: false
+		blockZombieDoorDestruction: false
+		disableContactDamage: false
+		disableFallDamage: false
+		disableLavaDamage: false
+		disableFireDamage: false
+		disableLightningDamage: false
+		disableDrowningDamage: false
+		disableSuffocationDamage: false
+		teleportOnSuffocation: false
+		disableVoidDamage: false
+		teleportOnVoid: false
+		safeFallOnVoid: false
+		disableExplosionDamage: false
+		disableMobDamage: false
+		highFreqFlags: false
+		checkLiquidFlow: false
+		regionWand: minecraft:leather
+		blockCreatureSpawn: []
+		allowTamedSpawns: true
+		maxClaimVolume: 30000
+		claimOnlyInsideExistingRegions: false
+		maxRegionCountPerPlayer: 7
+		antiWolfDumbness: false
+		signChestProtection: false
+		disableSignChestProtectionCheck: false
+		removeInfiniteStacks: false
+		disableCreatureCropTrampling: false
+		disablePlayerCropTrampling: false
+		preventLightningFire: false
+		disallowedLightningBlocks: []
+		disableThunder: false
+		disableWeather: false
+		alwaysRaining: false
+		alwaysThundering: false
+		disablePigZap: false
+		disableVillagerZap: false
+		disableCreeperPower: false
+		disableHealthRegain: false
+		disableMushroomSpread: false
+		disableIceMelting: false
+		disableSnowMelting: false
+		disableSnowFormation: false
+		disableIceFormation: false
+		disableLeafDecay: false
+		disableGrassGrowth: false
+		disableMyceliumSpread: false
+		disableVineGrowth: false
+		disableCropGrowth: false
+		disableEndermanGriefing: false
+		disableSnowmanTrails: false
+		disableSoilDehydration: false
+		allowedSnowFallOver: []
+		regionInvinciblityRemovesMobs: false
+		regionCancelEmptyChatEvents: true
+		regionNetherPortalProtection: false
+		fakePlayerBuildOverride: true
+		explosionFlagCancellation: true
+		disableDeathMessages: false
+		disableObsidianGenerators: false
+		strictEntitySpawn: false
+		ignoreHopperMoveEvents: false
+		maxRegionCounts: {null=7}
+	Blacklist: <Disabled>
+	Regions: 
+		Region Count: 1
+		__global__: <Undefined>
+World: world_nether: 
+	Configuration: 
+		blockPotions: []
+		allowAllInteract: {}
+		blockUseAtFeet: {}
+		usePaperEntityOrigin: false
+		blacklistFile: plugins/WorldGuard/worlds/world_nether/blacklist.txt
+		boundedLocationFlags: false
+		useRegions: true
+		simulateSponge: false
+		spongeRadius: 2
+		redstoneSponges: false
+		summaryOnStart: true
+		opPermissions: true
+		buildPermissions: false
+		buildPermissionDenyMessage: §eSorry, but you are not permitted to do that here.
+		fireSpreadDisableToggle: false
+		itemDurability: true
+		disableExpDrops: false
+		blockPotionsAlways: false
+		disableConduitEffects: false
+		pumpkinScuba: false
+		noPhysicsGravel: false
+		noPhysicsSand: false
+		ropeLadders: false
+		allowPortalAnywhere: false
+		preventWaterDamage: []
+		blockLighter: false
+		disableFireSpread: false
+		disableFireSpreadBlocks: []
+		preventLavaFire: false
+		allowedLavaSpreadOver: []
+		blockTNTExplosions: false
+		blockTNTBlockDamage: false
+		blockCreeperExplosions: false
+		blockCreeperBlockDamage: false
+		blockWitherExplosions: false
+		blockWitherBlockDamage: false
+		blockWitherSkullExplosions: false
+		blockWitherSkullBlockDamage: false
+		blockEnderDragonBlockDamage: false
+		blockEnderDragonPortalCreation: false
+		blockFireballExplosions: false
+		blockFireballBlockDamage: false
+		blockOtherExplosions: false
+		blockEntityPaintingDestroy: false
+		blockEntityItemFrameDestroy: false
+		blockEntityArmorStandDestroy: false
+		blockPluginSpawning: true
+		blockGroundSlimes: false
+		blockZombieDoorDestruction: false
+		disableContactDamage: false
+		disableFallDamage: false
+		disableLavaDamage: false
+		disableFireDamage: false
+		disableLightningDamage: false
+		disableDrowningDamage: false
+		disableSuffocationDamage: false
+		teleportOnSuffocation: false
+		disableVoidDamage: false
+		teleportOnVoid: false
+		safeFallOnVoid: false
+		disableExplosionDamage: false
+		disableMobDamage: false
+		highFreqFlags: false
+		checkLiquidFlow: false
+		regionWand: minecraft:leather
+		blockCreatureSpawn: []
+		allowTamedSpawns: true
+		maxClaimVolume: 30000
+		claimOnlyInsideExistingRegions: false
+		maxRegionCountPerPlayer: 7
+		antiWolfDumbness: false
+		signChestProtection: false
+		disableSignChestProtectionCheck: false
+		removeInfiniteStacks: false
+		disableCreatureCropTrampling: false
+		disablePlayerCropTrampling: false
+		preventLightningFire: false
+		disallowedLightningBlocks: []
+		disableThunder: false
+		disableWeather: false
+		alwaysRaining: false
+		alwaysThundering: false
+		disablePigZap: false
+		disableVillagerZap: false
+		disableCreeperPower: false
+		disableHealthRegain: false
+		disableMushroomSpread: false
+		disableIceMelting: false
+		disableSnowMelting: false
+		disableSnowFormation: false
+		disableIceFormation: false
+		disableLeafDecay: false
+		disableGrassGrowth: false
+		disableMyceliumSpread: false
+		disableVineGrowth: false
+		disableCropGrowth: false
+		disableEndermanGriefing: false
+		disableSnowmanTrails: false
+		disableSoilDehydration: false
+		allowedSnowFallOver: []
+		regionInvinciblityRemovesMobs: false
+		regionCancelEmptyChatEvents: true
+		regionNetherPortalProtection: false
+		fakePlayerBuildOverride: true
+		explosionFlagCancellation: true
+		disableDeathMessages: false
+		disableObsidianGenerators: false
+		strictEntitySpawn: false
+		ignoreHopperMoveEvents: false
+		maxRegionCounts: {null=7}
+	Blacklist: <Disabled>
+	Regions: 
+		Region Count: 0
+		__global__: <Undefined>
+World: world_the_end: 
+	Configuration: 
+		blockPotions: []
+		allowAllInteract: {}
+		blockUseAtFeet: {}
+		usePaperEntityOrigin: false
+		blacklistFile: plugins/WorldGuard/worlds/world_the_end/blacklist.txt
+		boundedLocationFlags: false
+		useRegions: true
+		simulateSponge: false
+		spongeRadius: 2
+		redstoneSponges: false
+		summaryOnStart: true
+		opPermissions: true
+		buildPermissions: false
+		buildPermissionDenyMessage: §eSorry, but you are not permitted to do that here.
+		fireSpreadDisableToggle: false
+		itemDurability: true
+		disableExpDrops: false
+		blockPotionsAlways: false
+		disableConduitEffects: false
+		pumpkinScuba: false
+		noPhysicsGravel: false
+		noPhysicsSand: false
+		ropeLadders: false
+		allowPortalAnywhere: false
+		preventWaterDamage: []
+		blockLighter: false
+		disableFireSpread: false
+		disableFireSpreadBlocks: []
+		preventLavaFire: false
+		allowedLavaSpreadOver: []
+		blockTNTExplosions: false
+		blockTNTBlockDamage: false
+		blockCreeperExplosions: false
+		blockCreeperBlockDamage: false
+		blockWitherExplosions: false
+		blockWitherBlockDamage: false
+		blockWitherSkullExplosions: false
+		blockWitherSkullBlockDamage: false
+		blockEnderDragonBlockDamage: false
+		blockEnderDragonPortalCreation: false
+		blockFireballExplosions: false
+		blockFireballBlockDamage: false
+		blockOtherExplosions: false
+		blockEntityPaintingDestroy: false
+		blockEntityItemFrameDestroy: false
+		blockEntityArmorStandDestroy: false
+		blockPluginSpawning: true
+		blockGroundSlimes: false
+		blockZombieDoorDestruction: false
+		disableContactDamage: false
+		disableFallDamage: false
+		disableLavaDamage: false
+		disableFireDamage: false
+		disableLightningDamage: false
+		disableDrowningDamage: false
+		disableSuffocationDamage: false
+		teleportOnSuffocation: false
+		disableVoidDamage: false
+		teleportOnVoid: false
+		safeFallOnVoid: false
+		disableExplosionDamage: false
+		disableMobDamage: false
+		highFreqFlags: false
+		checkLiquidFlow: false
+		regionWand: minecraft:leather
+		blockCreatureSpawn: []
+		allowTamedSpawns: true
+		maxClaimVolume: 30000
+		claimOnlyInsideExistingRegions: false
+		maxRegionCountPerPlayer: 7
+		antiWolfDumbness: false
+		signChestProtection: false
+		disableSignChestProtectionCheck: false
+		removeInfiniteStacks: false
+		disableCreatureCropTrampling: false
+		disablePlayerCropTrampling: false
+		preventLightningFire: false
+		disallowedLightningBlocks: []
+		disableThunder: false
+		disableWeather: false
+		alwaysRaining: false
+		alwaysThundering: false
+		disablePigZap: false
+		disableVillagerZap: false
+		disableCreeperPower: false
+		disableHealthRegain: false
+		disableMushroomSpread: false
+		disableIceMelting: false
+		disableSnowMelting: false
+		disableSnowFormation: false
+		disableIceFormation: false
+		disableLeafDecay: false
+		disableGrassGrowth: false
+		disableMyceliumSpread: false
+		disableVineGrowth: false
+		disableCropGrowth: false
+		disableEndermanGriefing: false
+		disableSnowmanTrails: false
+		disableSoilDehydration: false
+		allowedSnowFallOver: []
+		regionInvinciblityRemovesMobs: false
+		regionCancelEmptyChatEvents: true
+		regionNetherPortalProtection: false
+		fakePlayerBuildOverride: true
+		explosionFlagCancellation: true
+		disableDeathMessages: false
+		disableObsidianGenerators: false
+		strictEntitySpawn: false
+		ignoreHopperMoveEvents: false
+		maxRegionCounts: {null=7}
+	Blacklist: <Disabled>
+	Regions: 
+		Region Count: 0
+		__global__: <Undefined>
+World: creative_world: 
+	Configuration: 
+		blockPotions: []
+		allowAllInteract: {}
+		blockUseAtFeet: {}
+		usePaperEntityOrigin: false
+		blacklistFile: plugins/WorldGuard/worlds/creative_world/blacklist.txt
+		boundedLocationFlags: false
+		useRegions: true
+		simulateSponge: false
+		spongeRadius: 2
+		redstoneSponges: false
+		summaryOnStart: true
+		opPermissions: true
+		buildPermissions: false
+		buildPermissionDenyMessage: §eSorry, but you are not permitted to do that here.
+		fireSpreadDisableToggle: false
+		itemDurability: true
+		disableExpDrops: false
+		blockPotionsAlways: false
+		disableConduitEffects: false
+		pumpkinScuba: false
+		noPhysicsGravel: false
+		noPhysicsSand: false
+		ropeLadders: false
+		allowPortalAnywhere: false
+		preventWaterDamage: []
+		blockLighter: false
+		disableFireSpread: false
+		disableFireSpreadBlocks: []
+		preventLavaFire: false
+		allowedLavaSpreadOver: []
+		blockTNTExplosions: false
+		blockTNTBlockDamage: false
+		blockCreeperExplosions: false
+		blockCreeperBlockDamage: false
+		blockWitherExplosions: false
+		blockWitherBlockDamage: false
+		blockWitherSkullExplosions: false
+		blockWitherSkullBlockDamage: false
+		blockEnderDragonBlockDamage: false
+		blockEnderDragonPortalCreation: false
+		blockFireballExplosions: false
+		blockFireballBlockDamage: false
+		blockOtherExplosions: false
+		blockEntityPaintingDestroy: false
+		blockEntityItemFrameDestroy: false
+		blockEntityArmorStandDestroy: false
+		blockPluginSpawning: true
+		blockGroundSlimes: false
+		blockZombieDoorDestruction: false
+		disableContactDamage: false
+		disableFallDamage: false
+		disableLavaDamage: false
+		disableFireDamage: false
+		disableLightningDamage: false
+		disableDrowningDamage: false
+		disableSuffocationDamage: false
+		teleportOnSuffocation: false
+		disableVoidDamage: false
+		teleportOnVoid: false
+		safeFallOnVoid: false
+		disableExplosionDamage: false
+		disableMobDamage: false
+		highFreqFlags: false
+		checkLiquidFlow: false
+		regionWand: minecraft:leather
+		blockCreatureSpawn: []
+		allowTamedSpawns: true
+		maxClaimVolume: 30000
+		claimOnlyInsideExistingRegions: false
+		maxRegionCountPerPlayer: 7
+		antiWolfDumbness: false
+		signChestProtection: false
+		disableSignChestProtectionCheck: false
+		removeInfiniteStacks: false
+		disableCreatureCropTrampling: false
+		disablePlayerCropTrampling: false
+		preventLightningFire: false
+		disallowedLightningBlocks: []
+		disableThunder: false
+		disableWeather: false
+		alwaysRaining: false
+		alwaysThundering: false
+		disablePigZap: false
+		disableVillagerZap: false
+		disableCreeperPower: false
+		disableHealthRegain: false
+		disableMushroomSpread: false
+		disableIceMelting: false
+		disableSnowMelting: false
+		disableSnowFormation: false
+		disableIceFormation: false
+		disableLeafDecay: false
+		disableGrassGrowth: false
+		disableMyceliumSpread: false
+		disableVineGrowth: false
+		disableCropGrowth: false
+		disableEndermanGriefing: false
+		disableSnowmanTrails: false
+		disableSoilDehydration: false
+		allowedSnowFallOver: []
+		regionInvinciblityRemovesMobs: false
+		regionCancelEmptyChatEvents: true
+		regionNetherPortalProtection: false
+		fakePlayerBuildOverride: true
+		explosionFlagCancellation: true
+		disableDeathMessages: false
+		disableObsidianGenerators: false
+		strictEntitySpawn: false
+		ignoreHopperMoveEvents: false
+		maxRegionCounts: {null=7}
+	Blacklist: <Disabled>
+	Regions: 
+		Region Count: 2
+		__global__: 
+			Type: GLOBAL
+			Priority: 0
+			Parent: <none>
+			Owners: {players={uuids=[], names=[]}, groups={names=[]}}
+			Members: {players={uuids=[], names=[]}, groups={names=[]}}
+			Flags: 
+			Bounds: (0, 0, 0) -> (0, 0, 0)
+
+================================
+Applicable regions
+================================
+
+Location: world @ (-5, 63, -641)
+Regions: 
+	season1: 
+		Type: CUBOID
+		Priority: 0
+		Parent: <none>
+		Owners: {players={uuids=[63cbd9e5-93a8-4816-9d47-d42a283812ce], names=[]}, groups={names=[]}}
+		Members: {players={uuids=[], names=[]}, groups={names=[]}}
+		Flags: 
+		Bounds: (-12, 0, -766) -> (115, 255, -638)
+

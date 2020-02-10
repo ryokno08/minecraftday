@@ -1,7 +1,7 @@
 lastAccountName: yokmama
 timestamps:
-  login: 1581255967452
-  lastteleport: 1581256117581
+  login: 1581302357393
+  lastteleport: 1581302458195
   logout: 1581254116872
 ipAddress: 126.150.249.73
 lastlocation:
@@ -18,7 +18,7 @@ logoutlocation:
   z: -643.9450679927463
   yaw: 281.87112
   pitch: 14.580838
-afk: true
+afk: false
 homes:
   t1:
     world: world

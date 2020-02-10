@@ -1,0 +1,28 @@
+lastAccountName: lIllIIlIIIllIllI
+timestamps:
+  login: 1580811771586
+  lastteleport: 1580801909810
+  logout: 1580812164105
+ipAddress: 159.28.198.46
+lastlocation:
+  world: world
+  x: -91.76429182309396
+  y: 66.0
+  z: 403.80690031192194
+  yaw: -275.39996
+  pitch: 19.949799
+homes:
+  home:
+    world: world
+    x: -186.71435418885167
+    y: 64.0
+    z: -197.1824552377822
+    yaw: 20.099596
+    pitch: -6.600119
+logoutlocation:
+  world: world
+  x: -135.39872750512666
+  y: 83.0
+  z: -277.9870078499746
+  yaw: 37.649433
+  pitch: 26.999935

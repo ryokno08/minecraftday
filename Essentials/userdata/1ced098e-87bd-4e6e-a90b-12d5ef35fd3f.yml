@@ -1,0 +1,29 @@
+lastAccountName: Len_Len100
+timestamps:
+  login: 1581249397144
+  logout: 1581251669385
+  lastteleport: 1581251626164
+ipAddress: 126.63.205.72
+logoutlocation:
+  world: world
+  x: 94.06078949212697
+  y: 64.0
+  z: -526.2874364299317
+  yaw: -176.42603
+  pitch: 22.950075
+money: '14097.84800000000010202'
+lastlocation:
+  world: world
+  x: 55.69239143750748
+  y: 50.0
+  z: -518.4280613502164
+  yaw: -357.77628
+  pitch: 33.30007
+homes:
+  home:
+    world: world
+    x: 94.09101729623436
+    y: 64.0
+    z: -524.885558408485
+    yaw: -96.325745
+    pitch: 35.100037

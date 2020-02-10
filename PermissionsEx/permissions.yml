@@ -1,0 +1,35 @@
+groups:
+  default:
+    options:
+      default: true
+    permissions:
+    - modifyworld.*
+    - multiverse.portal.access.*
+    - essentials.delhome
+    - essentials.home
+    - essentials.sethome
+    - essentials.home.bed
+    - essentials.spawn
+    - essentials.msg
+    - essentials.mail
+    - essentials.mail.send
+    - essentials.balance
+    - essentials.balancetop
+    - essentials.afk
+    - essentials.hat
+    - essentials.kill
+    - essentials.mute
+    - essentials.clearinventory
+    - essentials.exp
+    - essentials.skull
+    - essentials.skull.spawn
+    - essentials.compass
+    - essentials.getpos
+    - essentials.depth
+    - essentials.list
+    - essentials.motd
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpahere
+    - essentials.tpdeny
+schema-version: 1

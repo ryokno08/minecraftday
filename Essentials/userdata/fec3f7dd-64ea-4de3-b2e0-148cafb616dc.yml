@@ -1,0 +1,29 @@
+lastAccountName: utti_dayo
+timestamps:
+  login: 1581251938164
+  lastteleport: 1581251959228
+  logout: 1581251961857
+ipAddress: 157.147.21.74
+lastlocation:
+  world: world
+  x: -198.5
+  y: 68.0
+  z: -208.5
+  yaw: 178.30977
+  pitch: 29.942583
+logoutlocation:
+  world: world
+  x: -198.5
+  y: 68.0
+  z: -208.5
+  yaw: 178.30977
+  pitch: 29.942583
+money: '35792.58100000000004221'
+homes:
+  home:
+    world: world
+    x: -198.41592205275893
+    y: 68.0
+    z: -208.0779230716717
+    yaw: 178.30977
+    pitch: 29.942583

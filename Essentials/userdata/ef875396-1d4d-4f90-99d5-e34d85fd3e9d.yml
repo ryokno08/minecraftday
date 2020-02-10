@@ -1,0 +1,33 @@
+lastAccountName: yokkon_kun
+timestamps:
+  login: 1581238293904
+  logout: 1581240884475
+  lastteleport: 1581240672964
+ipAddress: 126.141.87.207
+money: '35173.94300000000024731'
+logoutlocation:
+  world: world
+  x: -171.824877484887
+  y: 12.0
+  z: -169.909518122682
+  yaw: -103.547516
+  pitch: 31.694895
+lastlocation:
+  world: world
+  x: 128.89406424545996
+  y: 11.0
+  z: -609.3000000119209
+  yaw: 51.4364
+  pitch: 28.949802
+mail:
+- §6[§rTsubochanDayo§6] §r2月9日にエンドラ討伐しよう
+- §6[§ryokkon_kun§6] §ryokkon_kun yokkon_kun yokkon_kun yokkon_kun yokkon_kun yokkon_kun
+- §6[§rTsubochanDayo§6] §rところでエンド要塞見つかってるっけ？もし見つかってたら場所教えて！！！
+homes:
+  home:
+    world: world
+    x: -179.48329145992562
+    y: 11.0
+    z: -197.48865319987354
+    yaw: -266.7478
+    pitch: -1.9051493

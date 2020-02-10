@@ -1,0 +1,21 @@
+lastAccountName: sou_pon
+timestamps:
+  login: 1581234881514
+  lastteleport: 1581234271209
+  logout: 1581235482059
+ipAddress: 220.247.21.24
+lastlocation:
+  world: world
+  x: 89.25580913683994
+  y: 58.0
+  z: -524.1312509915283
+  yaw: -165.1665
+  pitch: 48.75037
+logoutlocation:
+  world: world
+  x: 89.29999997466803
+  y: 57.0
+  z: -525.897341926965
+  yaw: -19.95221
+  pitch: 31.050005
+money: '1000'
