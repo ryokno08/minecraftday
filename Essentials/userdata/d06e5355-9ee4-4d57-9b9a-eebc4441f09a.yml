@@ -1,32 +1,33 @@
 lastAccountName: TsubochanDayo
 timestamps:
-  login: 1581236957160
-  logout: 1581239098518
-  lastteleport: 1581238460375
+  login: 1581411317556
+  logout: 1581411727633
+  lastteleport: 1581411724888
 ipAddress: 222.0.166.32
-money: '8772.36250000000029492'
+money: '9404.37850000000042507'
 logoutlocation:
-  world: world
-  x: -103.89110949585903
-  y: 63.0
-  z: -210.3675543711289
-  yaw: -40.135773
-  pitch: 13.650048
+  world: world_nether
+  x: -14.5
+  y: 33.0
+  z: -36.5
+  yaw: -174.00404
+  pitch: 21.749977
 lastlocation:
   world: world
-  x: -69.20453305744083
-  y: 65.0
-  z: 377.91676908566245
-  yaw: -184.50339
-  pitch: 76.05014
+  x: -175.48933401046506
+  y: 12.0
+  z: -170.5360038299129
+  yaw: -132.1543
+  pitch: -1.7999743
 homes:
   home:
-    world: world
-    x: -89.23873017932638
-    y: 65.0
-    z: 403.65152129882256
-    yaw: -79.95405
-    pitch: 9.599959
+    world: world_nether
+    x: -14.436353748206841
+    y: 33.0
+    z: -36.99105617422447
+    yaw: -181.50407
+    pitch: 14.249976
 afk: false
 mail:
 - §6[§ryokkon_kun§6] §r-231 31 -1731だよ
+- §6[§ryokmama§6] §rgomennasai wakaranakattadesu naosite okimasita

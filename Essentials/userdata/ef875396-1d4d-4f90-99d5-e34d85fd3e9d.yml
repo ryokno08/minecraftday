@@ -1,24 +1,24 @@
 lastAccountName: yokkon_kun
 timestamps:
-  login: 1581238293904
-  logout: 1581240884475
-  lastteleport: 1581240672964
+  login: 1581487640675
+  logout: 1581487548301
+  lastteleport: 1581485894052
 ipAddress: 126.141.87.207
-money: '35173.94300000000024731'
+money: '36857.06800000000024731'
 logoutlocation:
   world: world
-  x: -171.824877484887
-  y: 12.0
-  z: -169.909518122682
-  yaw: -103.547516
-  pitch: 31.694895
+  x: -26.28413493526352
+  y: 64.0
+  z: -664.3945023199431
+  yaw: 217.35135
+  pitch: 10.200026
 lastlocation:
   world: world
-  x: 128.89406424545996
-  y: 11.0
-  z: -609.3000000119209
-  yaw: 51.4364
-  pitch: 28.949802
+  x: -125.44246612265393
+  y: 63.0
+  z: -238.19528350791262
+  yaw: 28.498169
+  pitch: 15.9001255
 mail:
 - §6[§rTsubochanDayo§6] §r2月9日にエンドラ討伐しよう
 - §6[§ryokkon_kun§6] §ryokkon_kun yokkon_kun yokkon_kun yokkon_kun yokkon_kun yokkon_kun
@@ -26,8 +26,9 @@ mail:
 homes:
   home:
     world: world
-    x: -179.48329145992562
-    y: 11.0
-    z: -197.48865319987354
-    yaw: -266.7478
-    pitch: -1.9051493
+    x: -169.5
+    y: 12.0000002
+    z: -173.5
+    yaw: 0.0
+    pitch: 0.0
+afk: false

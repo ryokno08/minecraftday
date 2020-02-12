@@ -57,7 +57,7 @@ log:
   returned: true
   dropped: true
   purged: true
-disabled-worlds: []
+disabled-worlds: [creative_world]
 auction:
   listingPrice: 0.0
   listingRate: 0.0
@@ -81,8 +81,8 @@ auction:
   announce: false
   discord: false
   discord_channel: auctionhouse
-  multiworld: false
-  groupWorlds: false
+  multiworld: true
+  groupWorlds: true
   replaceUUIDs: false
   replacePlayerNames: false
   dropAtFeet: false

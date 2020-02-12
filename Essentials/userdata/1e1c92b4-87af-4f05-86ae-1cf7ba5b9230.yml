@@ -1,16 +1,16 @@
 lastAccountName: universnote
 timestamps:
-  login: 1581242931824
-  logout: 1581243707710
+  login: 1581415214904
+  logout: 1581415427069
   lastteleport: 1580442262475
 ipAddress: 131.147.25.132
 logoutlocation:
   world: world
-  x: -129.48274345128323
-  y: 67.0
-  z: -626.6521275633298
-  yaw: -357.70618
-  pitch: 48.15054
+  x: -129.69999998807907
+  y: 67.5625
+  z: -627.4747365778961
+  yaw: -70.04178
+  pitch: 15.396087
 lastlocation:
   world: world
   x: 1.8960796190571654

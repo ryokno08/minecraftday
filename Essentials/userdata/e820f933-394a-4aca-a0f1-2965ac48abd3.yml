@@ -1,20 +1,21 @@
 lastAccountName: Kinoko1030
 timestamps:
-  login: 1581228876090
-  logout: 1581231840177
+  login: 1581380381419
+  logout: 1581382745672
   lastteleport: 1581223186937
-ipAddress: 106.72.132.97
+ipAddress: 60.148.126.145
 logoutlocation:
   world: world
-  x: -187.69999998807907
-  y: 63.0
-  z: -179.51249998807907
-  yaw: 164.40022
-  pitch: 12.30002
+  x: -185.26621241877177
+  y: 12.0
+  z: -173.7858748166043
+  yaw: -171.29996
+  pitch: 22.349995
 lastlocation:
-  world: creative_world
-  x: 344.86022146536453
-  y: 5.0
-  z: -6.239192678991123
-  yaw: -91.511475
-  pitch: 15.000194
+  world: world
+  x: -186.30000001192093
+  y: 11.873500807121848
+  z: -174.69999998807907
+  yaw: -113.550835
+  pitch: 29.099995
+afk: false

@@ -10,6 +10,87 @@
 # REMEMBER TO KEEP PERIODICAL BACKUPS.
 #
 regions:
+    universnote1:
+        min: {x: 81, y: 0, z: -654}
+        max: {x: 96, y: 255, z: -639}
+        members: {}
+        flags: {build: allow, build-group: OWNERS}
+        owners:
+            unique-ids: [1e1c92b4-87af-4f05-86ae-1cf7ba5b9230]
+        type: cuboid
+        priority: 0
+    utti_dayo1:
+        min: {x: 7, y: 0, z: -747}
+        max: {x: 22, y: 255, z: -732}
+        members: {}
+        flags: {build: allow, build-group: OWNERS}
+        owners:
+            unique-ids: [fec3f7dd-64ea-4de3-b2e0-148cafb616dc]
+        type: cuboid
+        priority: 0
+    taisei_o1:
+        min: {x: -11, y: 0, z: -765}
+        max: {x: 4, y: 255, z: -750}
+        members: {}
+        flags: {build: allow, build-group: OWNERS}
+        owners:
+            unique-ids: [b6f7e216-ff48-4983-9c30-e3fd5a625437]
+        type: cuboid
+        priority: 0
+    yokkon_kun1:
+        min: {x: 63, y: 0, z: -765}
+        max: {x: 78, y: 255, z: -750}
+        members: {}
+        flags: {build: allow, build-group: OWNERS}
+        owners:
+            unique-ids: [ef875396-1d4d-4f90-99d5-e34d85fd3e9d]
+        type: cuboid
+        priority: 0
+    tsubochandayo1:
+        min: {x: 63, y: 0, z: -672}
+        max: {x: 78, y: 255, z: -657}
+        members: {}
+        flags: {build: allow, build-group: OWNERS}
+        owners:
+            unique-ids: [d06e5355-9ee4-4d57-9b9a-eebc4441f09a]
+        type: cuboid
+        priority: 0
+    miyacarpenter771:
+        min: {x: 63, y: 0, z: -654}
+        max: {x: 78, y: 255, z: -639}
+        members: {}
+        flags: {build: allow, build-group: OWNERS}
+        owners:
+            unique-ids: [14b04968-2861-45d0-a29f-23e090130435]
+        type: cuboid
+        priority: 0
+    1001kenta1:
+        min: {x: 99, y: 0, z: -747}
+        max: {x: 114, y: 255, z: -732}
+        members: {}
+        flags: {build: allow, build-group: OWNERS}
+        owners:
+            unique-ids: [37b4a5b0-dd55-4173-a3e3-0b191bb836ec]
+        type: cuboid
+        priority: 0
+    yutoguma1:
+        min: {x: 81, y: 0, z: -765}
+        max: {x: 96, y: 255, z: -750}
+        members: {}
+        flags: {build: allow, build-group: OWNERS}
+        owners:
+            unique-ids: [0338b71c-458c-4f3f-a2ab-494b76542c9c]
+        type: cuboid
+        priority: 0
+    sou_pon1:
+        min: {x: 63, y: 0, z: -747}
+        max: {x: 78, y: 255, z: -732}
+        members: {}
+        flags: {build: allow, build-group: OWNERS}
+        owners:
+            unique-ids: [dea7ee82-e607-4015-a2e8-040233b9d35a]
+        type: cuboid
+        priority: 0
     season1:
         min: {x: -12, y: 0, z: -766}
         max: {x: 115, y: 255, z: -638}
@@ -18,4 +99,28 @@ regions:
         owners:
             unique-ids: [63cbd9e5-93a8-4816-9d47-d42a283812ce]
         type: cuboid
+        priority: 0
+    kinoko10301:
+        min: {x: 7, y: 0, z: -765}
+        max: {x: 22, y: 255, z: -750}
+        members: {}
+        flags: {build: allow, build-group: OWNERS}
+        owners:
+            unique-ids: [e820f933-394a-4aca-a0f1-2965ac48abd3]
+        type: cuboid
+        priority: 0
+    hajime20091:
+        min: {x: 25, y: 0, z: -747}
+        max: {x: 40, y: 255, z: -732}
+        members: {}
+        flags: {build: allow, build-group: OWNERS}
+        owners:
+            unique-ids: [13e123d8-9422-43a4-b39a-75a38a0d5271]
+        type: cuboid
+        priority: 0
+    __global__:
+        members: {}
+        flags: {tnt: deny}
+        owners: {}
+        type: global
         priority: 0

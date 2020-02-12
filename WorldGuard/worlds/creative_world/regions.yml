@@ -21,7 +21,7 @@ regions:
         priority: 0
     __global__:
         members: {}
-        flags: {}
+        flags: {tnt: deny}
         owners: {}
         type: global
         priority: 0

@@ -1,23 +1,23 @@
 lastAccountName: yokmama
 timestamps:
-  login: 1581302357393
-  lastteleport: 1581302458195
-  logout: 1581254116872
+  login: 1581402799993
+  lastteleport: 1581403530830
+  logout: 1581403836219
 ipAddress: 126.150.249.73
 lastlocation:
   world: world
-  x: 64.89036904684444
+  x: -160.00529007306582
   y: 63.0
-  z: -535.0046036358895
-  yaw: -323.23517
-  pitch: 15.872012
+  z: -186.12236505432682
+  yaw: 89.4978
+  pitch: 5.420102
 logoutlocation:
   world: world
-  x: -28.783261789766655
-  y: 63.0
-  z: -643.9450679927463
-  yaw: 281.87112
-  pitch: 14.580838
+  x: 70.40742604269987
+  y: 74.0
+  z: -687.9953236418946
+  yaw: -86.25122
+  pitch: 35.997013
 afk: false
 homes:
   t1:
@@ -35,6 +35,3 @@ homes:
     yaw: -166.70122
     pitch: 17.317898
 money: '250'
-mail:
-- §6[§rTsubochanDayo§6] §rバーガーハウス元に戻してくれてありがとうございます！誰がやったかわかりましたか？
-- §6[§rumi0925§6] §rhello

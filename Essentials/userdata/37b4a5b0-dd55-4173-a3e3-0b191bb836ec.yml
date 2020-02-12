@@ -1,16 +1,16 @@
 lastAccountName: 1001kenta
 timestamps:
-  login: 1581220298810
-  logout: 1581232197072
-ipAddress: 126.80.169.65
+  login: 1581342973563
+  logout: 1581343338869
+ipAddress: 126.90.95.137
 money: '2301.8500000000000892'
 logoutlocation:
   world: world
-  x: 96.9319108096158
-  y: 63.0
-  z: -160.67546167289657
-  yaw: 293.18
-  pitch: 41.597168
+  x: 933.0221928535282
+  y: 69.0
+  z: -565.4084304031823
+  yaw: -154.79352
+  pitch: 43.697674
 mail:
 - §6[§rTsubochanDayo§6] §r2月9日にエンドラ討伐しよう
 lastlocation:
